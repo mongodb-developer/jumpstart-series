@@ -11,7 +11,7 @@ In the corresponding video for this branch, we used MongoDB Realm to create serv
 - Clone this branch to your local system
 - Run `npm install`
 - Follow the set up instructions from [Episode 4](https://youtu.be/Evp3xTzWCu4) to connect your Realm application to your Atlas database
-- Add your Realm App Id into the `.env.local` file
+- Rename `.env.local.example` to `.env.local` and add your Realm App Id
 - Run `npm run dev`
 - You should now see product names displaying in your application
 
