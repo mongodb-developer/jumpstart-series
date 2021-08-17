@@ -2,11 +2,18 @@
 
 This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode. 
 
-## Compass Branch
+## Realm Functions Branch
 
-In the corresponding video for this branch, we used MongoDB Compass to import products into our database using a `.json` file. 
+In the corresponding video for this branch, we used MongoDB Realm to create serverless functions that allow us to connect our database to our Next.js application. 
 
-You can use the `products.json` file in this branch to import the same products into your database. 
+## Instructions
+
+- Clone this branch to your local system
+- Run `npm install`
+- Follow the set up instructions from [Episode 4](https://youtu.be/Evp3xTzWCu4) to connect your Realm application to your Atlas database
+- Add your Realm App Id into the `.env.local` file
+- Run `npm run dev`
+- You should now see product names displaying in your application
 
 ## Episodes
 
@@ -19,7 +26,7 @@ You can use the `products.json` file in this branch to import the same products 
   - Branch: [compass](https://github.com/mongodb-developer/jumpstart-series/tree/compass)
 - Episode 4
   - Video: [Serverless Functions Explained | MongoDB Realm Backend-as-a-Service](https://youtu.be/Evp3xTzWCu4)
-  - Branch: 
+  - Branch: [realm-functions](https://github.com/mongodb-developer/jumpstart-series/tree/realm-functions)
 
 ## Questions?
 
