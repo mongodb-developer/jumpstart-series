@@ -19,7 +19,7 @@ You can use the `products.json` file in this branch to import the same products 
   - Branch: [compass](https://github.com/mongodb-developer/jumpstart-series/tree/compass)
 - Episode 4
   - Video: [Serverless Functions Explained | MongoDB Realm Backend-as-a-Service](https://youtu.be/Evp3xTzWCu4)
-  - Branch: 
+  - Branch: [realm-functions](https://github.com/mongodb-developer/jumpstart-series/tree/realm-functions)
 
 ## Questions?
 
