@@ -10,7 +10,7 @@ This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playl
   - Video: [Intro to MongoDB Atlas in 10 mins](https://youtu.be/xrc7dIO_tXk)
 - Episode 3
   - Video: [Compass - The GUI for MongoDB in 10 mins](https://youtu.be/YBOiX8DwinE)
-  - Branch:  
+  - Branch: [compass](https://github.com/mongodb-developer/jumpstart-series/tree/compass)
 - Episode 4
   - Video: [Serverless Functions Explained | MongoDB Realm Backend-as-a-Service](https://youtu.be/Evp3xTzWCu4)
   - Branch: 
