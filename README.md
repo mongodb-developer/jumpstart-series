@@ -2,6 +2,12 @@
 
 This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode. 
 
+## Compass Branch
+
+In the corresponding video for this branch, we used MongoDB Compass to import products into our database using a `.json` file. 
+
+You can use the `products.json` file in this branch to import the same products into your database. 
+
 ## Episodes
 
 - Episode 1
