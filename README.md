@@ -2,9 +2,11 @@
 
 This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode. 
 
-## Realm Functions Branch
+## Frontend Build Branch
 
-In the corresponding video for this branch, we used MongoDB Realm to create serverless functions that allow us to connect our database to our Next.js application. 
+In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB. 
+
+We use the two MongoDB Realm functions that we created in the previous video to populate our products from our MongoDB Atlas database.
 
 ## Instructions
 
@@ -13,7 +15,7 @@ In the corresponding video for this branch, we used MongoDB Realm to create serv
 - Follow the set up instructions from [Episode 4](https://youtu.be/Evp3xTzWCu4) to connect your Realm application to your Atlas database
 - Rename `.env.local.example` to `.env.local` and add your Realm App Id
 - Run `npm run dev`
-- You should now see product names displaying in your application
+- You should now see the frontend application built in [Episode 5](https://youtu.be/xIrtGeggw0E)
 
 ## Episodes
 
@@ -27,6 +29,9 @@ In the corresponding video for this branch, we used MongoDB Realm to create serv
 - Episode 4
   - Video: [Serverless Functions Explained | MongoDB Realm Backend-as-a-Service](https://youtu.be/Evp3xTzWCu4)
   - Branch: [realm-functions](https://github.com/mongodb-developer/jumpstart-series/tree/realm-functions)
+- Episode 5
+  - Video: [Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS](https://youtu.be/xIrtGeggw0E)
+  - Branch: [frontend-build](https://github.com/mongodb-developer/jumpstart-series/tree/frontend-build)
 
 ## Questions?
 
