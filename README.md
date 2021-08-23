@@ -14,6 +14,9 @@ This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playl
 - Episode 4
   - Video: [Serverless Functions Explained | MongoDB Realm Backend-as-a-Service](https://youtu.be/Evp3xTzWCu4)
   - Branch: [realm-functions](https://github.com/mongodb-developer/jumpstart-series/tree/realm-functions)
+- Episode 5
+  - Video: [Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS](https://youtu.be/xIrtGeggw0E)
+  - Branch: [frontend-build](https://github.com/mongodb-developer/jumpstart-series/tree/frontend-build)
 
 ## Questions?
 
