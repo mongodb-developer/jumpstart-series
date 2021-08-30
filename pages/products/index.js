@@ -10,7 +10,6 @@ import Products from "../../components/Products";
 
 export default function Home() {
   const [products, setProducts] = useState([]);
-  const [categories, setCategories] = useState([]);
 
   useEffect(async () => {
     // add your Realm App Id to the .env.local file
@@ -21,8 +20,6 @@ export default function Home() {
       const user = await app.logIn(credentials);
       const allProducts = await user.functions.getAllProducts();
       setProducts(() => allProducts);
-      const uniqueCategories = await user.functions.getUniqueCategories();
-      setCategories(() => uniqueCategories);
     } catch (error) {
       console.error(error);
     }
@@ -39,8 +36,7 @@ export default function Home() {
         <Container>
           <Category
             category="All Products"
-            categories={categories}
-            productCount={`${products.length} Products`}
+            categoryCount={`${products.length} Products`}
           />
           <Products products={products} />
           <Pagination />
