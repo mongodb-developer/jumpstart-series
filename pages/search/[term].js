@@ -39,7 +39,7 @@ export default function Home() {
         <Header />
         <Container>
           <Category
-            category="All Products"
+            category="Products Found"
             categoryCount={`${products.length} Products`}
           />
           <Products products={products} />
