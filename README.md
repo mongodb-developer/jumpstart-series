@@ -32,6 +32,9 @@ We use the two MongoDB Realm functions that we created in the previous video to 
 - Episode 5
   - Video: [Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS](https://youtu.be/xIrtGeggw0E)
   - Branch: [frontend-build](https://github.com/mongodb-developer/jumpstart-series/tree/frontend-build)
+- Episode 6
+  - Video: [MongoDB Atlas Search to Easily Find Your Data | Search & Autocomplete Implementation](https://youtu.be/jnxnhbTO2RA)
+  - Branch: [altas-search](https://github.com/mongodb-developer/jumpstart-series/tree/atlas-search)
 
 ## Questions?
 
