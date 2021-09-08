@@ -2,20 +2,17 @@
 
 This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode. 
 
-## Frontend Build Branch
+## Atlas Search Branch
 
-In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB. 
-
-We use the two MongoDB Realm functions that we created in the previous video to populate our products from our MongoDB Atlas database.
+In the corresponding video for this branch, build out search capabilities in our e-commerce project using MongoDB Atlas Search, including autocomplete. 
 
 ## Instructions
 
 - Clone this branch to your local system
 - Run `npm install`
-- Follow the set up instructions from [Episode 4](https://youtu.be/Evp3xTzWCu4) to connect your Realm application to your Atlas database
+- Follow the set up instructions from [Episode 3](https://youtu.be/YBOiX8DwinE) and [Episode 4](https://youtu.be/Evp3xTzWCu4) to crate your database and connect your Realm application to your Atlas database
 - Rename `.env.local.example` to `.env.local` and add your Realm App Id
 - Run `npm run dev`
-- You should now see the frontend application built in [Episode 5](https://youtu.be/xIrtGeggw0E)
 
 ## Episodes
 
@@ -32,6 +29,9 @@ We use the two MongoDB Realm functions that we created in the previous video to 
 - Episode 5
   - Video: [Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS](https://youtu.be/xIrtGeggw0E)
   - Branch: [frontend-build](https://github.com/mongodb-developer/jumpstart-series/tree/frontend-build)
+- Episode 6
+  - Video: [MongoDB Atlas Search to Easily Find Your Data | Search & Autocomplete Implementation](https://youtu.be/jnxnhbTO2RA)
+  - Branch: [altas-search](https://github.com/mongodb-developer/jumpstart-series/tree/atlas-search)
 
 ## Questions?
 
