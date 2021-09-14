@@ -1,6 +1,5 @@
 import Head from "next/head";
 import clientPromise from "../lib/mongodb";
-import { useState } from "react";
 import Category from "../components/Category";
 import Container from "../components/Container";
 import Footer from "../components/Footer";
