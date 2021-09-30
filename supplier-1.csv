@@ -1,0 +1,6 @@
+id,name,price,category,image
+12,"Angular T-Shirt",39,"T-Shirt","/images/angular.jpg"
+13,"Vite T-Shirt",39,"T-Shirt","/images/vite.jpg"
+14,"TailwindCSS Jacket",39,"Jacket","/images/tailwind.jpg"
+15,"VS Code T-Shirt",39,"T-Shirt","/images/vscode.jpg"
+16,"Vue T-Shirt",39,"T-Shirt","/images/vue.jpg"

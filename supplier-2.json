@@ -1,0 +1,37 @@
+[
+  {
+    "id": 7,
+    "name": "MongoDB T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/mongodb.png"
+  },
+  {
+    "id": 8,
+    "name": "Node.js T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/node.js.jpg"
+  },
+  {
+    "id": 9,
+    "name": "npm Hat",
+    "price": 29,
+    "category": "Hat",
+    "image": "/images/npm.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Python T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/python.jpg"
+  },
+  {
+    "id": 11,
+    "name": "React T-Shirt",
+    "price": 39,
+    "category": "T-Shirt",
+    "image": "/images/react.jpg"
+  }
+]
