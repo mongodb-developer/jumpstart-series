@@ -26,6 +26,9 @@ You can use the `products.json` file in this branch to import the same products 
 - Episode 6
   - Video: [MongoDB Atlas Search to Easily Find Your Data | Search & Autocomplete Implementation](https://youtu.be/jnxnhbTO2RA)
   - Branch: [altas-search](https://github.com/mongodb-developer/jumpstart-series/tree/atlas-search)
+- Episode 7
+  - Video: [Atlas Data Lake | Federated Query of .csv & .json files from AWS S3 Bucket | Jumpstart 2021](https://youtu.be/e4BNH8SeGVs)
+  - Branch: [datalake](https://github.com/mongodb-developer/jumpstart-series/tree/datalake)
 
 ## Questions?
 
